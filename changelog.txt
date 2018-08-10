@@ -1,0 +1,52 @@
+Legend: + Addition, - Removal, * Changed
+
+CURRENT VERSION NOTES:
+0.6.2 - 2018-08-09
+* Changed Mastodon to Sleeping.town as I have moved instance.
+
+PREVIOUS VERSION NOTES:
+0.6.1 - 2018-08-08
+- Removed Mastodon.irish
+* Fixed site so that it works in Firefox (Sorry about that ;P )
++ Added GitHub
+
+0.6 - 2018-06-02
+- Removed "FFXIV ACT" as it's not live 99.9% of the time.
++ Added "Keybase" so you know that I am legit.
+
+0.5.5 - 2018-06-01
+* Changed "Mastodon" to "Mastodon.social"
++ Added "Mastodon.irish"
+
+0.5 - 2018-05-16
++ Added "FFXIV" button which links to my character on the Lodestone
+
+0.4.5 - 2018-05-14
+* Changed all instances of vamp.moe to crakila.moe
+* Updated "Forum" link
+
+0.4 - 2018-05-11
+* Changed Kyot.me to Mastodon.social as Kyot has shut down :( 
+
+0.3.5 - 2018-05-04
+* Changed the Twitch Link from /VampiricPadraig to /Crakila
+
+0.3 - 2018-02-07
++ Added FFXIV ACT button. For when ACT is running while I am playing Final
+Fantasy XIV Online. 
+* Toying around with a new~ish layout for the buttons. Will do more stuff with
+them over the next few days or so (1) 
+
+0.2.1 - 2018-02-07
+* Changed the title (on tab) text
+
+0.2 - 2018-02-05
++ Added Ko-fi link. Buy me a coffee!
+* Adjusted tag line for site.
+* Changed background pattern
+
+0.1 - 2018-01-25 
++ Initial Changelog
++ Initial site.
+
+
