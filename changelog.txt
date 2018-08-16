@@ -1,10 +1,13 @@
 Legend: + Addition, - Removal, * Changed
 
 CURRENT VERSION NOTES:
+0.6.3 - 2018-08-16
++ Added WoW linking to World of Warcraft Armory
+
+PREVIOUS VERSION NOTES:
 0.6.2 - 2018-08-09
 * Changed Mastodon to Sleeping.town as I have moved instance.
 
-PREVIOUS VERSION NOTES:
 0.6.1 - 2018-08-08
 - Removed Mastodon.irish
 * Fixed site so that it works in Firefox (Sorry about that ;P )
